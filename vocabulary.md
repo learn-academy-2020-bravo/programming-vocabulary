@@ -44,3 +44,24 @@
 - arrow/fat arrow - describes the function,
 - pseudo code - plain English coding, describes the code for future developers
 - string interpolation - way to add variables to string `${}`
+
+### JavaScript Higher Order Functions
+- higher-order function
+- arguments accepted by map/filter
+
+### JavaScript Testing with Jest
+- yarn
+- Jest
+- TDD
+- red-green refactor
+
+### JavaScript Objects  
+- object
+- JSON
+- key
+- value
+- pairs
+- methods
+- dot notation
+- this
+- destructuring
