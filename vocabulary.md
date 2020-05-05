@@ -65,3 +65,17 @@
 - dot notation
 - this
 - destructuring
+
+### JavaScript Classes
+- class
+- object
+- constructor
+- this
+- new
+- PascalCase
+
+### JavaScript Inheritance
+- inheritance
+- Object Oriented Programming (OOP)
+- extends
+- super()
