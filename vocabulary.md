@@ -76,3 +76,12 @@
 - Object Oriented Programming (OOP) - software design that organizes content around data and objects rather than logic or functions
 - extends - keyword connects a child to a parent that gives it access to the data and behavior
 - super() - specific method required in the child class that calls the parent constructor method
+
+### Intro to React
+- component
+- render()
+- JSX
+- public
+- src
+- App.js
+- component call
